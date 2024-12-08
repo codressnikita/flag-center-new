@@ -1,0 +1,84 @@
+[
+  {
+    "parent": "Index",
+    "thumbnail": "./images/1.png",
+    "images": ["./images/1.png", "./images/2.png"]
+  },
+  {
+    "parent": "The Flag Satyagrah",
+    "thumbnail": "./images/3.png",
+    "images": [
+      "./images/3.png",
+      "./images/4.png",
+      "./images/5.png",
+      "./images/6.png",
+      "./images/7.png"
+    ]
+  },
+  {
+    "parent": "The Flag Committee",
+    "thumbnail": "./images/8.png",
+    "images": [
+      "./images/8.png",
+      "./images/9.png",
+      "./images/10.png",
+      "./images/11.png",
+      "./images/12.png"
+    ]
+  },
+  {
+    "parent": "Adoption of National Flag",
+    "thumbnail": "./images/13.png",
+    "images": [
+      "./images/13.png",
+      "./images/14.png",
+      "./images/15.png",
+      "./images/16.png",
+      "./images/17.png"
+    ]
+  },
+  {
+    "parent": "Independence day and first Flag Hoisting",
+    "thumbnail": "./images/18.png",
+    "images": [
+      "./images/18.png",
+      "./images/19.png",
+      "./images/20.png",
+      "./images/21.png",
+      "./images/22.png",
+      "./images/23.png",
+      "./images/24.png",
+      "./images/25.png",
+      "./images/26.png"
+    ]
+  },
+  {
+    "parent": "Women and their contribution in the making of the Flag of India",
+    "thumbnail": "./images/27.png",
+    "images": [
+      "./images/27.png",
+      "./images/28.png",
+      "./images/29.png",
+      "./images/30.png",
+      "./images/31.png",
+      "./images/32.png",
+      "./images/33.png",
+      "./images/34.png",
+      "./images/35.png",
+      "./images/36.png"
+    ]
+  },
+  {
+    "parent": "The Flag code of India",
+    "thumbnail": "./images/37.png",
+    "images": [
+      "./images/37.png",
+      "./images/38.png",
+      "./images/39.png",
+      "./images/40.png",
+      "./images/41.png",
+      "./images/42.png",
+      "./images/43.png"
+    ]
+  }
+]
