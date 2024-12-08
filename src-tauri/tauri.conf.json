@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "experts",
+  "productName": "Flag center",
   "version": "0.1.0",
-  "identifier": "com.experts.dev",
+  "identifier": "com.flag-center.dev",
   "build": {
     "frontendDist": "../out",
     "devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "experts",
+        "title": "FlagCenter",
         "decorations": false,
         "fullscreen": true,
         "resizable": false

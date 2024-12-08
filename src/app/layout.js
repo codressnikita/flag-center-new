@@ -3,7 +3,7 @@ import { ScreensaverProvider } from "./ScreensaverContext";
 import "./globals.css";
 
 export const metadata = {
-  title: "Experts",
+  title: "Flag Center",
   description: "",
 };
 
